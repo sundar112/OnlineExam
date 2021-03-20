@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".StaffActivites"></activity>
+        <activity android:name=".quiz"></activity>
+        <activity android:name=".StudentHome" />
+        <activity
+            android:name=".StdNavigation"
+            android:label="@string/title_activity_std_navigation"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".staffprofile" />
+        <activity android:name=".StaffActivites" />
         <activity android:name=".StaffHome" />
         <activity android:name=".StudentReg" />
         <activity android:name=".StaffReg" />
