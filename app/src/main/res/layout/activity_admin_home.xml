@@ -13,17 +13,21 @@
         android:layout_marginStart="30dp"
         android:layout_marginTop="55dp"
         android:layout_marginEnd="30dp"
+        android:backgroundTint="#03A9F4"
+
         android:text="@string/btnadminhome"
         app:layout_constraintEnd_toStartOf="@+id/btnadminstd"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+
     <Button
         android:id="@+id/btnadminstd"
         android:layout_width="0dp"
         android:layout_height="40dp"
         android:layout_marginEnd="30dp"
+        android:backgroundTint="#2196F3"
         android:text="@string/btnadminstd"
         app:layout_constraintBaseline_toBaselineOf="@+id/btnadminhone"
         app:layout_constraintEnd_toStartOf="@+id/btnadminstaf"
@@ -35,6 +39,7 @@
         android:layout_width="0dp"
         android:layout_height="40dp"
         android:layout_marginEnd="30dp"
+        android:backgroundTint="#2196F3"
         android:text="@string/btnadminstaf"
         app:layout_constraintBaseline_toBaselineOf="@+id/btnadminstd"
         app:layout_constraintEnd_toEndOf="parent"
@@ -44,6 +49,8 @@
     <TableLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="#00BCD4"
+        android:backgroundTint="#CCAAAA"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -59,6 +66,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="40dp"
                 android:layout_weight="1"
+                android:background="#090909"
+                android:backgroundTint="#8BC34A"
                 android:text="@string/atvsub" />
 
             <TextView
@@ -66,6 +75,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="40dp"
                 android:layout_weight="1"
+                android:background="#CDDC39"
+                android:backgroundTint="#8BC34A"
                 android:text="@string/atvDate" />
 
             <TextView
@@ -84,14 +95,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="40dp"
                 android:layout_weight="1"
-                android:text="@string/sub1" />
+                android:text="ICS" />
 
             <TextView
                 android:id="@+id/adate1"
                 android:layout_width="wrap_content"
                 android:layout_height="40dp"
                 android:layout_weight="1"
-                android:text="@string/adate1" />
+                android:text="2020/04/05" />
 
             <Button
                 android:id="@+id/aedit1"
