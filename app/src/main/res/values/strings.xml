@@ -17,6 +17,79 @@
     <string name="btnadminhome">HOME</string>
     <string name="btnadminstd">STUDENT</string>
     <string name="btnadminstaf">STAFF</string>
+    <string name="atvsub">Subject</string>
+    <string name="atvDate">Date</string>
+    <string name="sub1"></string>
+    <string name="sub2"></string>
+    <string name="sub3"></string>
+    <string name="sub4"></string>
+
+    <string name="stfreg">Staff Registration</string>
+    <string name="stffname">First Name</string>
+    <string name="stflname">Last Name</string>
+    <string name="stfsubject">Subject</string>
+    <string name="stfphone">Phone No</string>
+    <string name="stfmemberid">Member Id</string>
+    <string name="stfemail">Email</string>
+    <string name="stfpassword">Password</string>
+    <string name="stfbtnsave">SAVE</string>
+
+
+
+            <!--date-->
+    <string name="adate1"></string>
+    <string name="adate2"></string>
+    <string name="adate3"></string>
+    <string name="adate4"></string>
+
+
+    <string name="aedit1">Edit</string>
+    <string name="aedit2">Edit</string>
+    <string name="aedit3">Edit</string>
+    <string name="aedit4">Edit</string>
+
+
+
+
+
+    <!--quiz-->
+    <string name="timecount">Time:00:00</string>
+    <string name="que1">question</string>
+    <string name="que2">question</string>
+    <string name="que3">question</string>
+
+    <!--staff-->
+    <string name="btnactivity">Activities</string>
+    <string name="staffprofile">PROFILE</string>
+    <string name="submitbtn">SUBMIT</string>
+    <string name="addbtn"></string>
+    <string name="Question">question</string>
+    <string name="button3">HOME</string>
+    <string name="button4">activities</string>
+    <string name="button5">profile</string>
+    <string name="textView25">SUBJECT</string>
+    <string name="textView27">DATE</string>
+    <string name="textView28">SUBJECT</string>
+    <string name="textView29">SUBJECT</string>
+    <string name="textView30">DATE</string>
+    <string name="textView31">SUBJECT</string>
+    <string name="textView32">DATE</string>
+    <string name="textView33">SUBJECT</string>
+    <string name="textView34">DATE</string>
+    <string name="textView35">DATE</string>
+
+    <string name="stfbtnphome">HOME</string>
+    <string name="stfbtnpsubject">SUBJECTS</string>
+    <string name="stfbtnpprofile">PROFILE</string>
+    <string name="textView37">Profile</string>
+    <string name="lecturedetails">Lecturer Details</string>
+    <string name="lecturename">Profile</string>
+    <string name="lecturesub">Profile</string>
+    <string name="lectureemail">Profile</string>
+    <string name="lecturepno">Profile</string>
+
+
+
     <string name="title_activity_std_navigation">StdNavigation</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>

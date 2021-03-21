@@ -13,7 +13,7 @@
         android:layout_marginStart="30dp"
         android:layout_marginTop="55dp"
         android:layout_marginEnd="30dp"
-        android:text="Button"
+        android:text="@string/button3"
         app:layout_constraintEnd_toStartOf="@+id/button4"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
@@ -24,7 +24,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="30dp"
-        android:text="Button"
+        android:text="@string/button4"
         app:layout_constraintBaseline_toBaselineOf="@+id/button3"
         app:layout_constraintEnd_toStartOf="@+id/button5"
         app:layout_constraintHorizontal_bias="0.5"
@@ -35,7 +35,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="30dp"
-        android:text="Button"
+        android:text="@string/button5"
         app:layout_constraintBaseline_toBaselineOf="@+id/button4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -58,14 +58,14 @@
                 android:layout_width="0dp"
                 android:layout_height="40dp"
                 android:layout_weight="1"
-                android:text="TextView" />
+                android:text="@string/textView25" />
 
             <TextView
                 android:id="@+id/textView27"
                 android:layout_width="0dp"
                 android:layout_height="40dp"
                 android:layout_weight="1"
-                android:text="TextView" />
+                android:text="@string/textView27" />
         </TableRow>
 
         <TableRow
@@ -77,14 +77,14 @@
                 android:layout_width="0dp"
                 android:layout_height="40dp"
                 android:layout_weight="1"
-                android:text="TextView" />
+                android:text="@string/textView28" />
 
             <TextView
                 android:id="@+id/textView35"
                 android:layout_width="0dp"
                 android:layout_height="40dp"
                 android:layout_weight="1"
-                android:text="TextView" />
+                android:text="@string/textView35" />
         </TableRow>
 
         <TableRow
@@ -96,14 +96,14 @@
                 android:layout_width="0dp"
                 android:layout_height="40dp"
                 android:layout_weight="1"
-                android:text="TextView" />
+                android:text="@string/textView29" />
 
             <TextView
                 android:id="@+id/textView30"
                 android:layout_width="0dp"
                 android:layout_height="40dp"
                 android:layout_weight="1"
-                android:text="TextView" />
+                android:text="@string/textView30" />
         </TableRow>
 
         <TableRow
@@ -115,14 +115,14 @@
                 android:layout_width="0dp"
                 android:layout_height="40dp"
                 android:layout_weight="1"
-                android:text="TextView" />
+                android:text="@string/textView31" />
 
             <TextView
                 android:id="@+id/textView32"
                 android:layout_width="0dp"
                 android:layout_height="40dp"
                 android:layout_weight="1"
-                android:text="TextView" />
+                android:text="@string/textView32" />
         </TableRow>
 
         <TableRow
@@ -134,14 +134,14 @@
                 android:layout_width="0dp"
                 android:layout_height="40dp"
                 android:layout_weight="1"
-                android:text="TextView" />
+                android:text="@string/textView33" />
 
             <TextView
                 android:id="@+id/textView34"
                 android:layout_width="0dp"
                 android:layout_height="40dp"
                 android:layout_weight="1"
-                android:text="TextView" />
+                android:text="@string/textView34" />
         </TableRow>
     </TableLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
